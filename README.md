@@ -9,4 +9,12 @@ The-Airbus-Artificial-Intelligence-challenge
 
 * Airbus Helicopter Accelerometer Challenge
 
-这三场竞赛的代码分别对应于相同名字的三个文件夹。每个文件夹中均不包含原始数据。想要得到原始数据，需通过 https://www.airbus.com/newsroom/news/en/2018/12/airbus--latest-aigym-artificial-intelligence-challenge-is-focuse.html 网站或者 https://aigym.airbus.com/ 网站与赛事组委会联系取得。取得数据后，在三个文件夹中创建一个名为"Data"的文件夹，并把竞赛对应数据按照代码中对应文件名称解压。
+这三场竞赛的代码分别对应于相同名字的三个文件夹。每个文件夹中均不包含原始数据。想要得到原始数据，需通过 
+
+https://www.airbus.com/newsroom/news/en/2018/12/airbus--latest-aigym-artificial-intelligence-challenge-is-focuse.html 
+
+网站或者 https://aigym.airbus.com/ 
+
+网站与赛事组委会联系取得。取得数据后，在三个文件夹中创建一个名为"Data"的文件夹，并把竞赛对应数据按照代码中对应文件名称解压。
+
+在每一个文件夹中，分别有对应的训练模型和查看异常检测结果实例的对应文件及操作步骤。
