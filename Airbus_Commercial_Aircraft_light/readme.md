@@ -10,7 +10,7 @@ For the Airbus Commercial Aircraft Challenge:
     CuDNN version 7
     Keras 2.2
 
-* 2. You need to execute:
+* 2.You need to execute:
 
     * 1.. When you launch this desktop for the first time, launch "data.py" (enter bash$ python data.py ). This step will not be needed once you executed it on your machine.
     
